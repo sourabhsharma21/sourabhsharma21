@@ -3,4 +3,4 @@ class employee:
     salary = 5000
 
 
-    print(f"I work at {company} and my salary is {salary}")
+    print(f"I work at {company} and my salary is {salary}") 
